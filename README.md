@@ -1,5 +1,3 @@
-# IMPLAN-Proyect
-
 # Sistema de ingresos 
 
 ## Descripción
