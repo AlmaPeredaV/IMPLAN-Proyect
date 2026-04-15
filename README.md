@@ -10,7 +10,9 @@ Desarrollar un sistema de gestión de ingresos y cobros que permita el registro,
 
 ##Delimitación
 - Alcance
+  
 El presente proyecto contempla el desarrollo de un sistema de gestión de ingresos que permitirá:
+
 •	Registrar usuarios del sistema.
 
 •	Registrar ingresos o pagos realizados.
@@ -28,7 +30,9 @@ El presente proyecto contempla el desarrollo de un sistema de gestión de ingres
 El sistema se desarrollará como un sistema web, considerando funcionalidades esenciales para el control de ingresos dentro del periodo de estadía.
 
 - Limitaciones
+  
 El desarrollo del proyecto presenta las siguientes limitantes:
+
 •	Limitación en el uso de herramientas avanzadas o licencias de software.
 
 •	Dependencia de la información disponible para el diseño del sistema.
