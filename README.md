@@ -64,3 +64,16 @@ El desarrollo del proyecto presenta las siguientes limitantes:
 
 •	Adaptación del sistema a los procesos actuales de la organización.
 
+## Requerimientos funcionales
+
+## Requerimientos no funcionales
+
+##Metodología de desarrollo de software
+
+## Fases del desarrollo del sistema
+
+## Modelo Scrum
+
+## Fase de desarrollo
+
+## Pruebas y resultados
