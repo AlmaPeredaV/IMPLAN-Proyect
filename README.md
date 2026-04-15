@@ -8,7 +8,7 @@ Desarrollar un sistema web que permita realizar la captura de nuevos ingresos, i
 ## Objetivo
 Desarrollar un sistema de gestión de ingresos y cobros que permita el registro, control y consulta de operaciones financieras, mejorando la eficiencia administrativa y reduciendo errores en el manejo de la información.
 
-##Delimitación
+## Delimitación
 - Alcance
   
 El presente proyecto contempla el desarrollo de un sistema de gestión de ingresos que permitirá:
