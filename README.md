@@ -68,7 +68,7 @@ El desarrollo del proyecto presenta las siguientes limitantes:
 
 ## Requerimientos no funcionales
 
-##Metodología de desarrollo de software
+## Metodología de desarrollo de software
 
 ## Fases del desarrollo del sistema
 
