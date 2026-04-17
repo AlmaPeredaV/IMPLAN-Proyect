@@ -25,3 +25,6 @@
 
 - Boton Cerrar sesión
 ![Cerrar sesión](https://github.com/AlmaPeredaV/IMPLAN-Proyect/blob/main/btn_accion_cerrar_Sesion.png)
+
+-Regresar Readme
+![Readme](https://github.com/AlmaPeredaV/IMPLAN-Proyect/blob/main/README.md)
