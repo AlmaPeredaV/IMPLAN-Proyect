@@ -168,7 +168,7 @@ El desarrollo del proyecto presenta las siguientes limitantes:
 
 - Diagramas UML
   
-![uml](https://github.com/AlmaPeredaV/IMPLAN-Proyect/blob/main/Diagramas_UML.md)
+![Diagramas](https://github.com/AlmaPeredaV/IMPLAN-Proyect/blob/main/Diagramas_UML.md)
 
 - Diseño
 - Tablero
