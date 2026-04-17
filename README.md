@@ -166,6 +166,9 @@ El desarrollo del proyecto presenta las siguientes limitantes:
 
 ## Modelo Scrum
 
+- Diagramas UML
+- Diseño
+- Tablero
 ## Fase de desarrollo
 
 ## Pruebas y resultados
