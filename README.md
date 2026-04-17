@@ -171,6 +171,9 @@ El desarrollo del proyecto presenta las siguientes limitantes:
 ![Diagramas](https://github.com/AlmaPeredaV/IMPLAN-Proyect/blob/main/Diagramas_UML.md)
 
 - Diseño
+
+![Diseño](https://github.com/AlmaPeredaV/IMPLAN-Proyect/blob/main/dise%C3%B1o.md)
+
 - Tablero
 
 ![Calendario](https://github.com/users/AlmaPeredaV/projects/1/views/4)
