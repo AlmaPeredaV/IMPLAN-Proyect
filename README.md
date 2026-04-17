@@ -162,7 +162,30 @@ El desarrollo del proyecto presenta las siguientes limitantes:
 
 ## Metodología de desarrollo de software
 
+Se seguirá la metodología Scrum, con un enfoque iterativo e incremental, permitiendo mejorar el modelo de detección y realizar pruebas continuas con usuarios.
+
 ## Fases del desarrollo del sistema
+
+### Planificación y Análisis de Requerimientos
+- Definición de objetivos y alcances.
+- Identificación de herramientas necesarias.
+
+### Diseño del Sistema
+- Arquitectura del software.
+- Definición de los modelos de aprendizaje automático a utilizar.
+
+### Desarrollo e Implementación
+- Creación del dataset de entrenamiento.
+- Entrenamiento del modelo de detección de objetos.
+- Desarrollo de la aplicación y su integración con la salida de audio.
+
+### Pruebas y Validación
+- Pruebas funcionales y de rendimiento.
+- Evaluación con usuarios finales.
+
+### Despliegue y Mantenimiento
+- Implementación del sistema en un entorno real.
+- Mantenimiento y mejora continua.
 
 ## Modelo Scrum
 
