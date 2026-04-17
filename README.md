@@ -167,7 +167,9 @@ El desarrollo del proyecto presenta las siguientes limitantes:
 ## Modelo Scrum
 
 - Diagramas UML
+  
 ![uml](https://github.com/AlmaPeredaV/IMPLAN-Proyect/blob/main/Diagramas_UML.md)
+
 - Diseño
 - Tablero
 ## Fase de desarrollo
