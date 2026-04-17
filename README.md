@@ -172,6 +172,10 @@ El desarrollo del proyecto presenta las siguientes limitantes:
 
 - Diseño
 - Tablero
+
+![Calendario](https://github.com/users/AlmaPeredaV/projects/1/views/4)
+
+![Kanban](https://github.com/users/AlmaPeredaV/projects/1/views/1)
 ## Fase de desarrollo
 
 ## Pruebas y resultados
