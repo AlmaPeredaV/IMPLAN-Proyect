@@ -187,6 +187,9 @@ Se seguirá la metodología Scrum, con un enfoque iterativo e incremental, permi
   
 ![Diagramas](https://github.com/AlmaPeredaV/IMPLAN-Proyect/blob/main/Diagramas_UML.md)
 
+- Base de datos
+
+![Base de datos]()
 - Diseño
 
 ![Diseño](https://github.com/AlmaPeredaV/IMPLAN-Proyect/blob/main/dise%C3%B1o.md)
