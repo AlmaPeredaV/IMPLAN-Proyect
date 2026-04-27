@@ -42,8 +42,6 @@ El presente proyecto contempla el desarrollo de un sistema de gestión de ingres
 
 •	Implementar una interfaz amigable para la captura y visualización de datos.
 
-•	Pendiente (Implementar un sistema de facturación.)
-
 El sistema se desarrollará como un sistema web, considerando funcionalidades esenciales para el control de ingresos dentro del periodo de estadía.
 
 - Limitaciones
