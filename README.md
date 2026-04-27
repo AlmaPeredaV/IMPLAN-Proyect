@@ -162,24 +162,91 @@ El desarrollo del proyecto presenta las siguientes limitantes:
 
 ## Metodología de desarrollo de software
 
-Se seguirá la metodología Scrum, con un enfoque iterativo e incremental, permitiendo mejorar 
+Para el desarrollo del sistema web de gestión de ingresos del Instituto Municipal de Planeación (IMPLAN), se utilizará la metodología Scrum, basada en un enfoque iterativo e incremental.
+
+Esta metodología permitirá desarrollar el sistema en ciclos cortos, facilitando la entrega continua de funcionalidades como el registro de pagos, generación de recibos y consulta de ingresos, así como la incorporación de mejoras basadas en la retroalimentación del personal administrativo.
 
 ## Fases del desarrollo del sistema
 
 ### Planificación y Análisis de Requerimientos
 
+- Definición del problema:
+
+gestión manual de cobros y riesgo de pérdida de información.
+
+- Identificación de objetivos del sistema:
+  
+  digitalizar y optimizar el control de ingresos.
+  
+- Levantamiento de requerimientos mediante:
+  
+  - Entrevistas con personal administrativo.
+  - Observación del proceso actual.
+  - Análisis de documentos físicos.
+    
+- Identificación de requerimientos funcionales y no funcionales.
+  
+- Selección de tecnologías:
+
+MySQL, Spring Boot, JavaScript y autenticación JWT.
 
 ### Diseño del Sistema
 
+- Definición de la arquitectura del sistema:
+  
+ - Backend con Spring Boot.
+ - Frontend con JavaScript.
+ - Base de datos MySQL.
+
+- Diseño de módulos principales:
+
+ - Gestión de usuarios
+ - Gestión de cobros
+ - Generación de recibos
+ - Reportes y panel de control
+  
+- Diseño del modelo de datos para evitar duplicidad e inconsistencias.
+  
+- Definición de roles y permisos (administrador y cajero).
 
 ### Desarrollo e Implementación
 
+- Desarrollo del sistema de autenticación con JWT.
+  
+- Implementación del CRUD de usuarios.
+  
+- Desarrollo del módulo de registro de pagos.
+  
+- Implementación de la generación automática de recibos digitales.
+  
+- Desarrollo de consultas de historial de ingresos.
+  
+- Implementación de reportes (diarios, mensuales y anuales).
+  
+- Integración de todos los módulos en una aplicación web funcional.
 
 ### Pruebas y Validación
 
+- Pruebas funcionales de cada módulo:
+  
+ - Registro de pagos
+ - Generación de recibos
+ - Consulta de ingresos
+ - Validación de seguridad (acceso por roles).
+   
+- Pruebas de integridad de datos (evitar duplicados o pérdidas).
+  
+- Evaluación del sistema con usuarios administrativos del IMPLAN.
+  
+- Corrección de errores detectados.
 
 ### Despliegue y Mantenimiento
 
+- Implementación del sistema en un entorno real dentro del IMPLAN.
+  
+- Capacitación básica a los usuarios del sistema.
+  
+- Monitoreo del funcionamiento del sistema.
 
 ## Modelo Scrum
 
