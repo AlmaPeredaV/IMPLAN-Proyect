@@ -200,10 +200,10 @@ MySQL, Spring Boot, JavaScript y autenticación JWT.
 
 - Diseño de módulos principales:
 
- - Gestión de usuarios
- - Gestión de cobros
- - Generación de recibos
- - Reportes y panel de control
+   - Gestión de usuarios
+   - Gestión de cobros
+   - Generación de recibos
+   - Reportes y panel de control
   
 - Diseño del modelo de datos para evitar duplicidad e inconsistencias.
   
@@ -229,10 +229,10 @@ MySQL, Spring Boot, JavaScript y autenticación JWT.
 
 - Pruebas funcionales de cada módulo:
   
- - Registro de pagos
- - Generación de recibos
- - Consulta de ingresos
- - Validación de seguridad (acceso por roles).
+   - Registro de pagos
+   - Generación de recibos
+   - Consulta de ingresos
+   - Validación de seguridad (acceso por roles).
    
 - Pruebas de integridad de datos (evitar duplicados o pérdidas).
   
