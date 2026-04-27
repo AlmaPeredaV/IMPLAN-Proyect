@@ -4,25 +4,25 @@
 Desarrollar un sistema web que permita realizar la captura de nuevos ingresos, imprimmir los recibos y generar reportes mensuales de las ventas realizadas.
 
 ## Objetivos
--Objetivo general
+- Objetivo general
 
 Desarrollar un sistema de gestión de ingresos y cobros que permita el registro, control y consulta de operaciones financieras, mejorando la eficiencia administrativa y reduciendo errores en el manejo de la información.
 
--Objetivos específicos
+- Objetivos específicos
 
-•	Analizar los procesos actuales de registro de ingresos.
+  •	Analizar los procesos actuales de registro de ingresos.
 
-•	Diseñar la estructura del sistema.
+  •	Diseñar la estructura del sistema.
 
-•	Implementar un módulo de autenticación de usuarios.
+  •	Implementar un módulo de autenticación de usuarios.
 
-•	Desarrollar un módulo de registro de cobros.
+  •	Desarrollar un módulo de registro de cobros.
 
-•	Crear un sistema de consulta y visualización de datos.
+  •	Crear un sistema de consulta y visualización de datos.
 
-•	Generar reportes básicos de ingresos.
+  •	Generar reportes básicos de ingresos.
 
-•	Validar el funcionamiento del sistema mediante pruebas.
+  •	Validar el funcionamiento del sistema mediante pruebas.
 
 
 ## Delimitación
