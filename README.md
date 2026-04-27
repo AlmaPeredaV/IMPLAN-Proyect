@@ -194,9 +194,9 @@ MySQL, Spring Boot, JavaScript y autenticación JWT.
 
 - Definición de la arquitectura del sistema:
   
- - Backend con Spring Boot.
- - Frontend con JavaScript.
- - Base de datos MySQL.
+   - Backend con Spring Boot.
+   - Frontend con JavaScript.
+   - Base de datos MySQL.
 
 - Diseño de módulos principales:
 
