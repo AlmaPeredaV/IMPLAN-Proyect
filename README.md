@@ -30,17 +30,17 @@ Desarrollar un sistema de gestión de ingresos y cobros que permita el registro,
   
 El presente proyecto contempla el desarrollo de un sistema de gestión de ingresos que permitirá:
 
-  •	Registrar usuarios del sistema.
+      •	Registrar usuarios del sistema.
 
-  •	Registrar ingresos o pagos realizados.
+      •	Registrar ingresos o pagos realizados.
 
-  •	Consultar historial de cobros.
+      •	Consultar historial de cobros.
 
-  •	Generar reportes de ingresos mensuales.
+      •	Generar reportes de ingresos mensuales.
 
-  •	Validar acceso mediante autenticación.
+      •	Validar acceso mediante autenticación.
 
-  •	Implementar una interfaz amigable para la captura y visualización de datos.
+      •	Implementar una interfaz amigable para la captura y visualización de datos.
 
 El sistema se desarrollará como un sistema web, considerando funcionalidades esenciales para el control de ingresos dentro del periodo de estadía.
 
