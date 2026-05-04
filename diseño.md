@@ -1,6 +1,6 @@
 ## Diseño del sistema WEB para administrador
 
-- Login:
+- Login
 ![Login](https://github.com/AlmaPeredaV/IMPLAN-Proyect/blob/main/Login.png)
 ![Recuperar Contraseña](https://github.com/AlmaPeredaV/IMPLAN-Proyect/blob/main/recuperar_contrasena.png)
 
