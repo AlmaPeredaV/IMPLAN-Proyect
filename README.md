@@ -245,7 +245,8 @@ MySQL, Spring Boot, JavaScript y autenticación JWT.
 
 - Diseño
 
-![Diseño](https://github.com/AlmaPeredaV/IMPLAN-Proyect/blob/main/dise%C3%B1o.md)
+![Diseño administrador](https://github.com/AlmaPeredaV/IMPLAN-Proyect/blob/main/dise%C3%B1o.md)
+![Diseño usuario]()
 
 - Tablero
 
