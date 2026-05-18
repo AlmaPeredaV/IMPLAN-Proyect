@@ -7,7 +7,7 @@
 - Sistema cobro
 ![Cobro](https://github.com/AlmaPeredaV/IMPLAN-Proyect/blob/main/sis_cobreo_user.png)
 ![Modal cobro](https://github.com/AlmaPeredaV/IMPLAN-Proyect/blob/main/modal_ingreso.png)
-![Modal reporte](https://github.com/AlmaPeredaV/IMPLAN-Proyect/blob/main/Captura%20de%20pantalla%202026-05-18%20120040.png)
+![Modal reporte](https://github.com/AlmaPeredaV/IMPLAN-Proyect/blob/main/reporte.png)
 
 - Catalogo
 
