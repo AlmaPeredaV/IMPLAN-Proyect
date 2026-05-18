@@ -20,7 +20,7 @@
 
 - Catalogo
 
-![Catalogo](https://github.com/AlmaPeredaV/IMPLAN-Proyect/blob/main/catalogos.png)
+![Catalogo](https://github.com/AlmaPeredaV/IMPLAN-Proyect/blob/main/cat_admin.png)
 
 - Boton Cerrar sesión
 ![Cerrar sesión](https://github.com/AlmaPeredaV/IMPLAN-Proyect/blob/main/btn_accion_cerrar_Sesion.png)
