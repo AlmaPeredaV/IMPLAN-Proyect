@@ -9,8 +9,7 @@
 ![Periodo](https://github.com/AlmaPeredaV/IMPLAN-Proyect/blob/main/btn_accion_periodo.png)
 
 - Sistema cobro
-![Cobro](https://github.com/AlmaPeredaV/IMPLAN-Proyect/blob/main/sistema_cobro.png)
-![Modal cobro](https://github.com/AlmaPeredaV/IMPLAN-Proyect/blob/main/modal_ingreso.png)
+![Cobro](https://github.com/AlmaPeredaV/IMPLAN-Proyect/blob/main/sis_co_adm.png)
 ![Modal reporte](https://github.com/AlmaPeredaV/IMPLAN-Proyect/blob/main/modal_reporte.png)
 
 - Sistema Usuario
