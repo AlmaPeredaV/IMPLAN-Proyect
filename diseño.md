@@ -22,6 +22,10 @@
 
 ![Catalogo](https://github.com/AlmaPeredaV/IMPLAN-Proyect/blob/main/cat_admin.png)
 
+- Control de usuarios
+![control usuario](https://github.com/AlmaPeredaV/IMPLAN-Proyect/blob/main/CON_USU.png)
+![Modal control usuario](https://github.com/AlmaPeredaV/IMPLAN-Proyect/blob/main/mod_con_us.png)
+
 - Boton Cerrar sesión
 ![Cerrar sesión](https://github.com/AlmaPeredaV/IMPLAN-Proyect/blob/main/btn_accion_cerrar_Sesion.png)
 
