@@ -19,7 +19,7 @@ Aquí están los diagramas que forman parte de nuestro proyecto:
 ![Diagrama de secuencia](https://github.com/AlmaPeredaV/IMPLAN-Proyect/blob/main/diagrama_secuencia5.png)
 
 ## Modelado de la base de datos
-![Modelado de la base de datos](https://github.com/AlmaPeredaV/IMPLAN-Proyect/blob/main/modelado_bd.png)
+![Modelado de la base de datos](https://github.com/AlmaPeredaV/IMPLAN-Proyect/blob/main/clase.png)
 
 -Regresar Readme
 ![Readme](https://github.com/AlmaPeredaV/IMPLAN-Proyect/blob/main/README.md)
