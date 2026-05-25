@@ -1,6 +1,6 @@
 # Base de datos
 
-![Diseño](https://github.com/AlmaPeredaV/IMPLAN-Proyect/blob/main/bd.png)
+![Diseño](https://github.com/AlmaPeredaV/IMPLAN-Proyect/blob/main/basededatos.png)
 ![Base de datos]()
 
 -Regresar Readme
