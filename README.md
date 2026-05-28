@@ -67,85 +67,89 @@ El desarrollo del proyecto presenta las siguientes limitantes:
 
 ## Requerimientos funcionales
 
-- Gestión de usuarios
-    - El sistema deberá permitir el registro de usuarios (administrador y cajero).
-      
-    - El sistema deberá permitir el inicio de sesión mediante autenticación segura (JWT).
-      
-    - El sistema deberá permitir la gestión de usuarios (crear, editar, eliminar) por parte del administrador.
-      
-    - El sistema deberá asignar roles y permisos según el tipo de usuario.
+Inicio de sesión
 
-- Gestión de cobros
-    - El sistema deberá permitir el registro de pagos realizados.
-      
-    - El sistema deberá almacenar información del pago (fecha, monto, tipo de ingreso, contribuyente, descripción).
-      
-    - El sistema deberá permitir la clasificación de los ingresos por tipo.
-      
-    - El sistema deberá evitar la duplicación de registros de pago. 
+- El sistema deberá permitir el inicio de sesión de los usuarios registrados mediante correo electrónico y contraseña. El sistema deberá validar las credenciales y permitir el acceso según el rol asignado: Administrador o Cajero.
+  
+Gestión de usuarios
 
-- Generación de recibos
-    - El sistema deberá generar recibos digitales automáticamente al registrar un pago.
-      
-    - El sistema deberá permitir la descarga o impresión de recibos.
-      
-    - El sistema deberá incluir en el recibo los datos del contribuyente, monto, fecha y concepto. 
+- El sistema deberá permitir al Administrador registrar, consultar, editar y eliminar usuarios. Para cada usuario se deberán capturar los siguientes datos: nombre, apellido paterno, apellido materno, puesto, correo electrónico, contraseña y rol.
 
-- Consulta y control de ingresos
-    - El sistema deberá permitir la consulta del historial de pagos.
-      
-    - El sistema deberá permitir la búsqueda de pagos por fecha, contribuyente o tipo de ingreso.
-      
-    - El sistema deberá mostrar el historial completo de ingresos registrados. 
+Asignación de roles
 
-- Reportes
-    - El sistema deberá generar reportes de ingresos (diarios, mensuales, anuales).
-      
-    - El sistema deberá permitir la exportación de reportes (PDF o Excel).
-      
-    - El sistema deberá mostrar estadísticas básicas de ingresos. 
+- El sistema deberá permitir al Administrador asignar un rol a cada usuario. El rol Administrador tendrá acceso completo al sistema, mientras que el rol Cajero solo podrá registrar cobros, consultar movimientos y generar reportes.
 
-- Panel de control
-    - El sistema deberá mostrar un panel con indicadores clave (total de ingresos, pagos recientes, etc.).
-      
-    - El sistema deberá actualizar la información del panel en tiempo real o bajo demanda
+Registro de cobros
+
+- El sistema deberá permitir al Cajero registrar un cobro ingresando los siguientes datos: contribuyente, concepto de pago, monto, tipo de pago, fecha, folio y empleado que realiza el cobro.
+
+Validación de cobros
+
+- El sistema deberá validar que el monto del cobro sea mayor a cero, que el folio no esté duplicado y que todos los campos obligatorios estén completos antes de guardar el registro.
+
+Generación de recibos
+
+- El sistema deberá generar automáticamente un recibo digital después de registrar un cobro. El recibo deberá mostrar folio, fecha, contribuyente, concepto, monto, tipo de pago y empleado responsable.
+
+Consulta de recibos
+
+- El sistema deberá permitir consultar los recibos registrados mediante filtros como fecha, folio, contribuyente, concepto o tipo de pago.
+
+Generación de reportes
+
+- El sistema deberá permitir generar reportes de ingresos por día, mes o año. El reporte deberá mostrar los cobros registrados, el total de ingresos y los datos principales de cada recibo.
+
+Descarga de reportes
+
+- El sistema deberá permitir descargar los reportes generados en formato PDF o Excel para su almacenamiento o impresión.
+
+Panel de control
+
+- El sistema deberá mostrar un panel de control con información resumida, como total de ingresos, movimientos recientes, cantidad de recibos registrados y estadísticas por periodo.
+
+Gestión de catálogos
+
+- El sistema deberá permitir registrar, consultar, editar y eliminar catálogos como conceptos de pago, tipos de pago, cargos y cantidades.
+
+Cierre de sesión
+
+- El sistema deberá permitir cerrar la sesión del usuario de forma segura, evitando que otra persona acceda al sistema sin autenticación.
 
 
 ## Requerimientos no funcionales
 
-- Seguridad
-    - El sistema deberá garantizar la confidencialidad de la información mediante autenticación con JWT.
-      
-    - El sistema deberá encriptar las contraseñas de los usuarios.
-      
-    - El sistema deberá restringir el acceso según roles (administrador y cajero).
+Seguridad
 
-- Rendimiento
-    - El sistema deberá responder a consultas en un tiempo menor a 2 segundos.
-      
-    - El sistema deberá soportar múltiples usuarios simultáneos sin degradación significativa.
+- El sistema deberá proteger el acceso mediante autenticación con JWT y contraseñas encriptadas.
 
-- Disponibilidad
-    - El sistema deberá estar disponible durante el horario laboral sin interrupciones.
-      
-    - El sistema deberá contar con mecanismos de respaldo (backups) periódicos.
+Control de acceso
 
-- Usabilidad
-    - El sistema deberá contar con una interfaz intuitiva y fácil de usar.
-      
-    - El sistema deberá ser accesible desde navegadores web modernos.
+- El sistema deberá restringir las funciones disponibles de acuerdo con el rol del usuario
 
-- Integridad de datos
-    - El sistema deberá evitar la pérdida de información.
-      
-    - El sistema deberá mantener consistencia en los datos almacenados.
+Rendimiento
 
-- Escalabilidad
-    - El sistema deberá permitir futuras mejoras o ampliaciones sin afectar su funcionamiento.
+- El sistema deberá responder las consultas y registros en un tiempo máximo de 2 segundos en condiciones normales de uso.
 
-- Mantenibilidad
-    - El sistema deberá estar desarrollado con código estructurado y documentado.
+Disponibilidad
+
+- El sistema deberá estar disponible durante el horario laboral de la dependencia.
+
+Integridad de datos
+
+- El sistema deberá evitar registros duplicados, pérdida de información o inconsistencias en los cobros.
+
+Usabilidad
+
+- El sistema deberá contar con una interfaz clara, sencilla y fácil de utilizar para el personal administrativo.
+
+Compatibilidad
+
+- El sistema deberá funcionar correctamente en navegadores web modernos como Google Chrome, Microsoft Edge y Mozilla Firefox.
+
+Mantenibilidad
+
+- El sistema deberá estar desarrollado con una estructura organizada que permita realizar futuras modificaciones o ampliaciones.
+
 
 
 ## Metodología de desarrollo de software
