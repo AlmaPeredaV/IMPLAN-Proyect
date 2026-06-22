@@ -1,6 +1,6 @@
 # Base de datos
 
-![Diseño]()
+![Diseño](https://github.com/AlmaPeredaV/IMPLAN-Proyect/blob/main/base%20de%20datos.png)
 
 ![base de datos]()
 
